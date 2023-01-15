@@ -12,7 +12,7 @@ https://www.crieseusjogos.com.br/author/igor/
 ```
 In 2022 I started to study dev web full stack with HTML, CSS and JS
 
-Actually I studyng backend with node.js, express.js, mongoDB with mongoose and postgresSQL
+Actually I develop with React.js, Node.Js, Express.js, Mongoose, PostgreSQL and Sequelize
 
 I also use Docker, Git, Github and Hiroku for my applications
 
