@@ -6,17 +6,11 @@
 
 <a href="https://www.linkedin.com/in/igor-sprovieri/">
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-
 <img style="height: 80px; width:100%;" src="./public/linkedin-svgrepo-com.svg"></img>
 
 <p style="margin-left: 8px; padding-bottom:8px; font-weight: bold; color: black; text-decoration: inherit; font-size: 16px;">/igor-sprovieri</p>
 
-</div>
-
 </a>
-
-<p style="margin-top: -32px">
 
 I am programming since 2013 with Unity C# and Visual Basic.
 
@@ -25,8 +19,6 @@ I programmed games with unity until 2022, participed in 16 projects published on
 I also wrote articles about development for the website crieseusjogos.com
 
 Actually I am web fullstack developer
-
-</p>
 
 </center>
 
