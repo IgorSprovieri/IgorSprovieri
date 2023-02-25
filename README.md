@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div align-items="center">
 
 <img src="./public/full-stack-developer-icon.svg" width="50%"></img>
 
