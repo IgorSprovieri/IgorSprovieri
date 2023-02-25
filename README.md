@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 <img src="./public/full-stack-developer-icon.svg" width="50%"></img>
 
@@ -20,7 +20,7 @@ I also wrote articles about development for the website crieseusjogos.com
 
 Actually I am web fullstack developer
 
-</center>
+</div>
 
 ## My Portfolio's Website
 
