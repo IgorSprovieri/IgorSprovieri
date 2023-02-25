@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
 
-<img src="./public/full-stack-developer-icon.svg" width="100%"></img>
+<img src="./public/full-stack-developer-icon.svg" width="50%"></img>
 
 <h1 style="margin-bottom: -8px"> Hi there! My name is Igor Sprovieri 👋 </h1>
 
