@@ -1,4 +1,4 @@
-<div display="flex" flex-direction="column" align-items="center">
+<center>
 
 <img src="./public/full-stack-developer-icon.svg" width="50%"></img>
 
@@ -28,7 +28,7 @@ Actually I am web fullstack developer
 
 </p>
 
-</div>
+</center>
 
 ## My Portfolio's Website
 
