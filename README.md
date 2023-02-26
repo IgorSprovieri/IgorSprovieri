@@ -12,8 +12,6 @@
 <img style="height: 28px;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
 </a>
 
-<img style="height: 0px;" src="./public/blank.svg"></img>
-
 I am programming since 2013 with Unity C# and Visual Basic.
 
 I programmed games with unity until 2022, participed in 16 projects published on Steam and others plataforms
@@ -44,13 +42,9 @@ Actually I am web fullstack developer
 <img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
-<img style="height: 0px;" src="./public/blank.svg"></img>
-
 ## My Portfolio's Website
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorSprovieri&repo=site-portfolio)](https://github.com/igorsprovieri/site-portfolio)
-
-<img style="height: 0px;" src="./public/blank.svg"></img>
 
 ## My GitHub
 
