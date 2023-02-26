@@ -5,10 +5,14 @@
 # Hi there! My name is Igor Sprovieri 👋
 
 <a href="https://www.linkedin.com/in/igor-sprovieri/">
-
-<img style="height: 80px; width:100%;" src="./public/linkedin-svgrepo-com.svg"></img>
-
+<img style="height: 28px;" src="./public/linkedin.svg"></img>
 </a>
+<img style="height: 8px;" src="./public/blank.svg"></img>
+<a href="https://wa.me/message/AQZS3NOUQULWL1">
+<img style="height: 28px;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+</a>
+
+<img style="height: 0px;" src="./public/blank.svg"></img>
 
 I am programming since 2013 with Unity C# and Visual Basic.
 
@@ -22,29 +26,31 @@ Actually I am web fullstack developer
 
 ## My Abilities
 
+### Front-end
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
+### Back-end
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+<img style="height: 0px;" src="./public/blank.svg"></img>
 
 ## My Portfolio's Website
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorSprovieri&repo=site-portfolio)](https://github.com/igorsprovieri/site-portfolio)
+
+<img style="height: 0px;" src="./public/blank.svg"></img>
 
 ## My GitHub
 
