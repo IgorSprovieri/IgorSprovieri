@@ -14,7 +14,7 @@
 
 <img style="height: 0px;" src="./public/blank.svg"></img>
 
-I am programming since 2013 with Unity C# and Visual Basic.
+I am programmer since 2013 with Unity C# and Visual Basic.
 
 I programmed games with unity until 2022, participed in 16 projects published on Steam and others plataforms
 
