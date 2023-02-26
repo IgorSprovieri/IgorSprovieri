@@ -42,13 +42,11 @@ Actually I am web fullstack developer
 <img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Nodejs"/></code>
 <img style="height: 8px;" src="./public/blank.svg"></img>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="MongoDB"/></code>
+<img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
 
 ## My Portfolio's Website
 
@@ -57,4 +55,5 @@ Actually I am web fullstack developer
 ## My GitHub
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=igorsprovieri&hide=stars,prs,issues,contribs&show_icons=true)
+<img style="height: 8px;" src="./public/blank.svg"></img>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsprovieri&layout=compact&langs_count=3)](https://github.com/igorsprovieri/github-readme-stats)
