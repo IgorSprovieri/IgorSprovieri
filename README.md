@@ -14,23 +14,15 @@
 
 <img style="height: 0px;" src="./public/blank.svg"></img>
 
-I am programmer since 2013 with Unity C# and Visual Basic.
-
-I programmed games with unity until 2022, participed in 16 projects published on Steam and others plataforms
-
-I also wrote articles about development for the website crieseusjogos.com
-
-Actually I am web fullstack developer
+After working 3 years how Unity Developer, I change to web development. My goal is to specialize in backend with Node, Typescript and clean architeture, but I have knowledge in frontend too with HTML, CSS, JS and React.
 
 </div>
 
-## My Portfolio's Website
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorSprovieri&repo=site-portfolio)](https://github.com/igorsprovieri/site-portfolio)
- 
 ## My Abilities
 
 [<img align="right" alt="Warpnet" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsprovieri&layout=compact&langs_count=3"/>](https://github.com/igorsprovieri/github-readme-stats)
+
+I like very much Software Architecture. I am studying SOLID principles, clean architecture, design patterns and others mays to architate my projects.
 
 ### Front-end
 
@@ -46,6 +38,8 @@ Actually I am web fullstack developer
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <img style="height: 8px;" src="./public/blank.svg"></img>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"/></code>
+<img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express"/></code>
@@ -54,6 +48,7 @@ Actually I am web fullstack developer
 <img style="height: 8px;" src="./public/blank.svg"></img>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <img style="height: 8px;" src="./public/blank.svg"></img>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"/></code>
 
 ## My GitHub
 
