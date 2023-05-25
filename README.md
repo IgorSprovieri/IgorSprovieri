@@ -14,7 +14,7 @@
 
 <img style="height: 0px;" src="./public/blank.svg"></img>
 
-After working 3 years how Unity Developer, I change to web development. My goal is to specialize in backend with Node, Typescript and clean architeture, but I have knowledge in frontend too with HTML, CSS, JS and React.
+In 2013 I learned to programming games how as a hobbie, in 2020 I started to work on this area, I did some freelancers, opened my game studio and I was a writter for over a year on site crieseusjogos.com. In 2022 I decided to go a web developer professional and today I am fullstack with react and node
 
 </div>
 
