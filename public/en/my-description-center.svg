@@ -2,6 +2,7 @@
   <style>
     .text{
       font: 400 16px Sans-Serif;
+      text-align: center;
     }
   </style>
   <foreignObject
