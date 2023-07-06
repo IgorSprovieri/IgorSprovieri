@@ -14,9 +14,7 @@
 
 <img style="height: 0px;" src="./public/blank.svg"></img>
 
-<html>
-  <img style="height: 100px; width: 100%" src="./public/en/my-description.svg"></img>
-</html>
+<img style="height: 100px; width: 100%" src="./public/en/my-description.svg"></img>
 
 In 2013 I learned to programming games how as a hobbie, in 2020 I started to work on this area, I did some freelancers, opened my game studio and I was a writter for over a year on site crieseusjogos.com. In 2022 I decided to go a web developer professional and today I am fullstack with react and node
 
