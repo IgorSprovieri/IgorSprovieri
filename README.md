@@ -14,6 +14,10 @@
 
 <img style="height: 0px;" src="./public/blank.svg"></img>
 
+<html>
+  <img style="height: 100px; width: 100%" src="./public/en/my-description.svg"></img>
+</html>
+
 In 2013 I learned to programming games how as a hobbie, in 2020 I started to work on this area, I did some freelancers, opened my game studio and I was a writter for over a year on site crieseusjogos.com. In 2022 I decided to go a web developer professional and today I am fullstack with react and node
 
 </div>
@@ -53,11 +57,3 @@ I like very much Software Architecture. I am studying SOLID principles, clean ar
 ## My GitHub
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=igorsprovieri&show_icons=true)
-
-<embed type="text/html" src="https://igorsprovieri-production.up.railway.app/my-description.html" style="width:100%; height:300px;"></embed>
-
-https://igorsprovieri-production.up.railway.app/pt/description
-
-<iframe
-  src="https://igorsprovieri-production.up.railway.app/my-description.html"
-></iframe>
