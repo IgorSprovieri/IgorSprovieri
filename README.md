@@ -14,7 +14,7 @@
 
 <img style="height: 0px;" src="./public/blank.svg"></img>
 
-<img style="height: 70px; width: 100%" src="./public/en/my-description-center.svg"></img>
+<img style="height: 70px; width: 100%" src="https://igorsprovieri-production.up.railway.app/en/my-description"></img>
 
 </div>
 
