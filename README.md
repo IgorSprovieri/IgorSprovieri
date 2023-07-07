@@ -1,3 +1,17 @@
+<style>
+  .my-description{
+    width: 100%;
+    height: 120px;
+    margin-top: 16px
+  }
+
+  @media only screen and (max-width: 480px){
+    .my-description{
+      height: 200px;
+    }
+  }
+</style>
+
 <div align="center">
 
 <img src="./public/full-stack-developer-icon.svg" width="50%"></img>
@@ -12,7 +26,7 @@
 <img style="height: 28px;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
 </a>
 
-<img style="width: 100%" src="https://igorsprovieri-production.up.railway.app/en/my-description?align=center"></img>
+<img class="my-description" src="https://igorsprovieri-production.up.railway.app/en/my-description?align=center"></img>
 
 </div>
 

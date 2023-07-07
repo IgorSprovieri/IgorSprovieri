@@ -20,6 +20,7 @@ router.get("/my-description", (req, res) => {
         }
       </style>
       <foreignObject
+          class="object"
           width="100%"
           height="100%"
           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
