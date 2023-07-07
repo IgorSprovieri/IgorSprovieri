@@ -1,17 +1,3 @@
-<style>
-  .my-description{
-    width: 100%;
-    height: 120px;
-    margin-top: 16px
-  }
-
-  @media only screen and (max-width: 480px){
-    .my-description{
-      height: 200px;
-    }
-  }
-</style>
-
 <div align="center">
 
 <img src="./public/full-stack-developer-icon.svg" width="50%"></img>
@@ -26,7 +12,7 @@
 <img style="height: 28px;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
 </a>
 
-<img class="my-description" src="https://igorsprovieri-production.up.railway.app/en/my-description?align=center"></img>
+    Programmer since 2013, I started to work professionaly in 2020, developing games with Unity, where I opened my game studio and until 2022 I developed 16 team projects, copyright and third-party. I was also a writer for more than a year on the website crieseusjogos.com.br. After this period I started to dedicate to web development and today I work as a fulltack developer with react and node.
 
 </div>
 
