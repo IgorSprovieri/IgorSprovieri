@@ -12,22 +12,22 @@ router.get("/my-description", (req, res) => {
   developer with react and node.`;
 
   const svg = `
-  <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .text{
-        font: ${weigth || 400} ${size || "16px"} ${family || "Sans-Serif"};
-        text-align: ${align || "left"};
-      }
-    </style>
-    <foreignObject
-      width="100%"
-      height="100%" 
-      requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-      >
-      <p class='text' xmlns="http://www.w3.org/1999/xhtml">${text}</p>
-    </foreignObject>
-  </svg>`;
-  return res.send(svg);
+    <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .text{
+          font: ${weigth || 400} ${size || "16px"} ${family || "Sans-Serif"};
+          text-align: ${align || "left"};
+        }
+      </style>
+      <foreignObject
+          width="100%"
+          height="100%"
+          requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+          >
+        <p class='text' xmlns="http://www.w3.org/1999/xhtml">${text}</p>
+      </foreignObject>
+    </svg>`;
+  return res.type("svg").send(svg);
 });
 
 module.exports = router;
