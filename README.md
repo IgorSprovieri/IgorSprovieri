@@ -12,9 +12,7 @@
 <img style="height: 28px;" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
 </a>
 
-<p style="font-size: 16px; font-family: Sans-Serif;">
-  Programmer since 2013, I started to work professionaly in 2020, developing games with Unity, where I opened my game studio and until 2022 I developed 16 team projects, copyright and third-party. I was also a writer for more than a year on the website crieseusjogos.com.br. After this period I started to dedicate to web development and today I work as a fulltack developer with react and node.
-</p>
+Programmer since 2013, I started to work professionaly in 2020, developing games with Unity, where I opened my game studio and until 2022 I developed 16 team projects, copyright and third-party. I was also a writer for more than a year on the website crieseusjogos.com.br. After this period I started to dedicate to web development and today I work as a fulltack developer with react, next, typescript and node.
 
 </div>
 
